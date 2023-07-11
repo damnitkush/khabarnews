@@ -1,9 +1,5 @@
-# khabarnews
+Show real time news.
 
-Hello,
-Actually, the API used in this project is the free version and is only available for the local host.
-Unfortunately, it is not accessible to other users. However, to provide a better understanding of the website's functionality,
-I have attached a video demonstrating how it works.
-Please watch the video to get a comprehensive overview of the website's features and operations.
+TechStack Used: HTML , CSS , JavaScript.
 
-though i have provided the link you can see from here https://newsinsight.netlify.app/
+API Used: gnews.io
